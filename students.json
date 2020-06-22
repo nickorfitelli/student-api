@@ -2,12 +2,12 @@
     {
         "studentID": 0,
         "name": "Bob",
-        "grades": "A"
+        "grades": ["A","B","C"]
     },
     {
         "studentID": 1,
         "name": "Nick",
-        "grades": "B"
+        "grades": ["B","A","F"]
     },
     {
         "studentID": 2,
